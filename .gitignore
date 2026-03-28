@@ -1,0 +1,4 @@
+dependencies/
+__pycache__/
+.DS_Store
+*.pth

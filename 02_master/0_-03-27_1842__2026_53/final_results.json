@@ -1,0 +1,46 @@
+{
+    "pole_0": {
+        "color": "Blue",
+        "avg_coords": [
+            301,
+            0,
+            92,
+            479
+        ],
+        "avg_center": [
+            347,
+            239
+        ],
+        "avg_area": 44451,
+        "num_detections": 5,
+        "seen_in_frames": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "pole_1": {
+        "color": "Yellow",
+        "avg_coords": [
+            403,
+            55,
+            29,
+            423
+        ],
+        "avg_center": [
+            418,
+            267
+        ],
+        "avg_area": 12612,
+        "num_detections": 5,
+        "seen_in_frames": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    }
+}
