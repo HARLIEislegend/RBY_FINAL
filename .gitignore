@@ -2,3 +2,15 @@ dependencies/
 __pycache__/
 .DS_Store
 *.pth
+
+# Output datasets / results
+00_master/
+01¸_master/
+02_master/
+03_master/
+
+# Test images
+test_folder/
+
+# Model checkpoints
+checkpoints/
